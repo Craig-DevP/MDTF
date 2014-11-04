@@ -1,0 +1,3 @@
+My Page shortcode:
+
+[mdf_results_by_ajax shortcode="mdf_custom template=any/outlets post_type=retail_outlet orderby=date order=desc page=1 per_page=9 pagination=tb" animate=0 animate_target=body]
